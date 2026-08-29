@@ -2,4 +2,5 @@ streamlit>=1.39,<2
 langgraph>=0.2,<1
 langchain>=0.3,<1
 langchain-google-genai>=2,<4
+google-genai>=1,<2
 python-dotenv>=1,<2
